@@ -132,6 +132,4 @@ func main() {
 	if err != nil {
 		log.Println(errors.New("ERROR : failed to StartUp gateway"))
 	}
-
-	return
 }

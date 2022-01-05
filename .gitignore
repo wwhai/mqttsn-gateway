@@ -1,1 +1,3 @@
-/mqttsngws.exe
+*.exe
+*.log
+data*

@@ -1,4 +1,4 @@
-IsAggregate: true
+IsAggregate: false
 Host: 0.0.0.0
 Port: 1884
 BrokerHost: "127.0.0.1"

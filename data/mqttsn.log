@@ -1,0 +1,2 @@
+2022/01/05 15:22:03 aggregating_gw_impl.go:33: Connect to broker
+2022/01/05 15:22:04 main.go:133: ERROR : failed to StartUp gateway
